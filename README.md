@@ -70,7 +70,7 @@ Me chamo Emily vitoria, tenho 19 anos e morei grande parte da minha vida em SC, 
     align="left" 
     alt="GitHub Stats" 
     height="200" 
-    style="padding-right: 10px;" 
+    style="padding-right: 50px;" 
     src="https://github-readme-stats.vercel.app/api?username=ramos-emily&show_icons=true&theme=tokyonight&include_all_commits=true" 
   />
 
