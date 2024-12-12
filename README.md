@@ -5,6 +5,12 @@ Me chamo Emily vitoria, tenho 19 anos e morei grande parte da minha vida em SC, 
 
 ---
 
+<div align="center">
+  <img width="500px"
+    src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXN6a284djRtY2pmbHB5bnB2eHlhZ2h6djljbmZqbG5penl2MjFvZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Od6XmbZWLy5jHMBus4/giphy.gif"
+  />
+</div>
+
 ### 🤖 Linguagens e Tecnologias
 
 <img 
@@ -65,21 +71,20 @@ Me chamo Emily vitoria, tenho 19 anos e morei grande parte da minha vida em SC, 
 
 ### 📊 Estatísticas
 
-<p>
+
+<div style="display: flex;">
   <img 
-    align="height" 
     alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
+    style="flex: 1; margin-right: 10px; width: 56%;" 
+    height="200"
     src="https://github-readme-stats.vercel.app/api?username=ramos-emily&show_icons=true&theme=tokyonight&include_all_commits=true" 
   />
 
-<img 
-      align="left" 
+  <img 
       alt="GitHub Stats" 
-      height="200" 
-        style="padding-right: 50px;" 
+      style="flex: 1; margin-left: 10px; width: 100%;" 
+      height="200"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramos-emily&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
-</p>
+</div>
