@@ -7,19 +7,18 @@ on:
 
 jobs:
   build:
-    name: Jobs to update datas
     runs-on: ubuntu-latest
     steps:
-      # Snake Animation
-      - uses: Platane/snk@master
-        id: snake-gif
+      - name: Checkout code
+        uses: actions/checkout@v2
         with:
-          github_user_name: ramos-emily
-          svg_out_path: dist/github-contribution-grid-snake.svg
-
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
-        with:
-          target_branch: output
-          build_dir: dist
+          token: ${{ secrets.GITHUB_TOKEN }}  # Aqui é onde o token é passado
+          
+      # Se você for fazer push ou commits no repositório, o token deve ter permissões adequadas
+      - name: Push changes
+        run: |
+          git add .
+          git commit -m "Automated commit"
+          git push
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # Aqui o token é usado para autenticação
