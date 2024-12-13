@@ -12,7 +12,7 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v2
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}  # Aqui é onde o token é passado
+          token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}  # Aqui é onde o token é passado
           
       # Se você for fazer push ou commits no repositório, o token deve ter permissões adequadas
       - name: Push changes
@@ -21,4 +21,4 @@ jobs:
           git commit -m "Automated commit"
           git push
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # Aqui o token é usado para autenticação
+          GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}  # Aqui o token é usado para autenticação
