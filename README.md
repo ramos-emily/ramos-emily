@@ -38,7 +38,6 @@ Me chamo Emily vitoria, tenho 19 anos e morei grande parte da minha vida em SC, 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 
-
 <img 
     align="left" 
     alt="Python" 
@@ -83,13 +82,15 @@ Me chamo Emily vitoria, tenho 19 anos e morei grande parte da minha vida em SC, 
 ### 📊 Estatísticas
 
 <div>
+    <a href="https://github.com/ramos-emily">
         <img align="left" height="190px"
-           src="https://github-readme-stats.vercel.app/api?username=ramos-emily&show_icons=true&theme=tokyonight&include_all_commits=true" 
+            src="https://github-readme-stats.vercel.app/api?username=ramos-emily&show_icons=true&theme=tokyonight&include_all_commits=true" 
             alt="Emily Ramos github stats" />
     </a>
+    <a href="https://github.com/ramos-emily">
         <img align="right" height="190px"
-                src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramos-emily&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
-                alt="Emily Ramos github stats" />
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramos-emily&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
+            alt="Emily Ramos github stats" />
     </a>
 </div>
 
