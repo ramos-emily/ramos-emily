@@ -27,8 +27,8 @@ jobs:
       # Passo 4: Commitar e dar push no arquivo SVG gerado
       - name: Commit and Push the snake SVG
         run: |
-          git config --global user.name "Your GitHub Username"
-          git config --global user.email "your-email@example.com"
+          git config --global user.name "ramos-emily"
+          git config --global user.email "ramos.emilvi@gmail.com"
           git add output/github-contribution-grid-snake.svg  # Verifique o caminho correto
           git commit -m "Update Snake Animation"
           git push
