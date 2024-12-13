@@ -77,6 +77,11 @@ Me chamo Emily vitoria, tenho 19 anos e morei grande parte da minha vida em SC, 
     <a href = "https://www.instagram.com/emiis_ramos/">
       <img width="30" src="https://img.icons8.com/color/48/instagram-new--v1.png">
     </a>
+    <a href = "https://www.linkedin.com/in/emily-ramos-581025331?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+      <img width="30" src="https://img.icons8.com/color/50/linkedin.png" alt="linkedin">
+    </a>
+
+    
 </div>
 
 ### 📊 Estatísticas
