@@ -66,11 +66,23 @@ Me chamo Emily vitoria, tenho 19 anos e morei grande parte da minha vida em SC, 
     src="https://www.svgrepo.com/show/373617/gamemaker.svg" 
 />
 
+
 <br/>
 <br/>
+
+
+### 🤖 Redes Sociais
+
+<h1 align="center">Redes Sociais</h1>
+    <a href = "mailto: ramos.emilyvi@gmail.com">
+      <img width="30" src="https://img.icons8.com/color/48/gmail-new.png">
+    </a>
+    <a href = "https://www.instagram.com/emiis_ramos/">
+      <img width="30" src="https://img.icons8.com/color/48/instagram-new--v1.png">
+    </a>
+</div>
 
 ### 📊 Estatísticas
-
 
 <div>
         <img align="left" height="190px"
@@ -82,3 +94,6 @@ Me chamo Emily vitoria, tenho 19 anos e morei grande parte da minha vida em SC, 
                 alt="Emily Ramos github stats" />
     </a>
 </div>
+
+
+![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
