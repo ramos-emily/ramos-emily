@@ -10,20 +10,27 @@ jobs:
     runs-on: ubuntu-latest
     
     steps:
+      # Passo 1: Checkout do código
       - name: Checkout code
         uses: actions/checkout@v2
         with:
           token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}  # Usando o PAT aqui
 
+      # Passo 2: Gerar o arquivo Snake SVG
       - name: Generate Snake SVG
         uses: platane/snk@master  # Ação que gera a animação da cobrinha
 
+      # Passo 3: Listar arquivos para ver onde o arquivo SVG está sendo gerado
+      - name: List files to check SVG path
+        run: ls -R  # Lista recursivamente todos os arquivos e pastas para verificar o caminho do .svg gerado
+
+      # Passo 4: Commitar e dar push no arquivo SVG gerado
       - name: Commit and Push the snake SVG
         run: |
           git config --global user.name "Your GitHub Username"
           git config --global user.email "your-email@example.com"
-          git add output/github-contribution-grid-snake.svg
+          git add output/github-contribution-grid-snake.svg  # Verifique o caminho correto
           git commit -m "Update Snake Animation"
           git push
         env:
-          GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}  # Usando PAT aqui também
+          GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}  # Usando PAT
