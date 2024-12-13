@@ -73,12 +73,10 @@ Me chamo Emily vitoria, tenho 19 anos e morei grande parte da minha vida em SC, 
 
 
 <div>
-    <a href="https://github.com/phfuark/AlphaCO_AdvancedEcommerce">
         <img align="left" height="190px"
            src="https://github-readme-stats.vercel.app/api?username=ramos-emily&show_icons=true&theme=tokyonight&include_all_commits=true" 
             alt="Emily Ramos github stats" />
     </a>
-    <a href="https://github.com/phfuark/Front_Consuming_API">
         <img align="right" height="190px"
                 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramos-emily&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
                 alt="Emily Ramos github stats" />
