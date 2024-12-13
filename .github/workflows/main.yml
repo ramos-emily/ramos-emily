@@ -1,23 +1,29 @@
-name: Generate Datas
+name: Snake Animation
 
 on:
-  schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
-  workflow_dispatch:
+  schedule:
+    - cron: "* */12 * * *"  # Executa a cada 12 horas
+  workflow_dispatch:  # Permite a execução manual
 
 jobs:
-  build:
+  generate-snake:
     runs-on: ubuntu-latest
+    
     steps:
       - name: Checkout code
         uses: actions/checkout@v2
         with:
           token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}  # Usando o PAT aqui
 
-      - name: Push changes
+      - name: Generate Snake SVG
+        uses: platane/snk@master  # Ação que gera a animação da cobrinha
+
+      - name: Commit and Push the snake SVG
         run: |
-          git add .
-          git commit -m "Automated commit"
+          git config --global user.name "Your GitHub Username"
+          git config --global user.email "your-email@example.com"
+          git add output/github-contribution-grid-snake.svg
+          git commit -m "Update Snake Animation"
           git push
         env:
-          GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}  # Usando o PAT aqui também
+          GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}  # Usando PAT aqui também
