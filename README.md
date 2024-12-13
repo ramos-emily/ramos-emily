@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Emily Ramos
+ # 👩🏻‍💻 Emily Ramos
 
 Me chamo Emily vitoria, tenho 19 anos e morei grande parte da minha vida em SC, hoje moro em SP. Faço curso técnico de Desenvolvimento de sistemas no senai, faculdade de engenharia da computação na UNASP e sou jovem aprendiz na Bosch. Sou apaixonada por tecnologia, apesar de ter começado os estudos recentemente em julho de 2024, ja adquiri muito conhecimento na minha rotina.
 
@@ -71,7 +71,7 @@ Me chamo Emily vitoria, tenho 19 anos e morei grande parte da minha vida em SC, 
 <br/>
 
 
-<h1 align="center">Redes Sociais</h1>
+<h1 align="center">Social</h1>
     <a href = "mailto: ramos.emilyvi@gmail.com">
       <img width="30" src="https://img.icons8.com/color/48/gmail-new.png">
     </a>
