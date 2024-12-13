@@ -71,8 +71,6 @@ Me chamo Emily vitoria, tenho 19 anos e morei grande parte da minha vida em SC, 
 <br/>
 
 
-### 🤖 Redes Sociais
-
 <h1 align="center">Redes Sociais</h1>
     <a href = "mailto: ramos.emilyvi@gmail.com">
       <img width="30" src="https://img.icons8.com/color/48/gmail-new.png">
