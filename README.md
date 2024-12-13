@@ -94,4 +94,9 @@ Me chamo Emily vitoria, tenho 19 anos e morei grande parte da minha vida em SC, 
 </div>
 
 
-![Snake animation](https://github.com/ramos-emily/ramos-emily/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ramos-emily/ramos-emily/output/github-contribution-grid-snake-dark.svg">
+   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ramos-emily/ramos-emily/output/github-contribution-grid-snake-dark.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ramos-emily/YourUser/output/github-contribution-grid-snake.svg">
+</picture>
+
