@@ -71,7 +71,7 @@ Me chamo Emily vitoria, tenho 19 anos e morei grande parte da minha vida em SC, 
 
 
 <h1 align="center">Social</h1>
-    <a href = "mailto: ramos.emilyvi@gmail.com">
+    <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ramos.emilyvi@gmail.com&su=Assunto&body=Mensagem" target="_blank">
       <img width="30" src="https://img.icons8.com/color/48/gmail-new.png">
     </a>
     <a href = "https://www.instagram.com/emiis_ramos/">
