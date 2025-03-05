@@ -65,6 +65,15 @@ Me chamo Emily vitoria, tenho 19 anos e morei grande parte da minha vida em SC, 
     src="https://www.svgrepo.com/show/373617/gamemaker.svg" 
 />
 
+<img
+    align="left" 
+    alt="DJANGO" 
+    title="DJANGO"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" 
+/>
+
 
 <br/>
 <br/>
