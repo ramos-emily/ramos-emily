@@ -75,11 +75,11 @@ Me chamo Emily vitoria, tenho 19 anos e morei grande parte da minha vida em SC, 
 />
 <img 
     align="left" 
-    alt="REST"
-    title="REST" 
+    alt="SQLITE"
+    title="SQLITE" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/djangorest/djangorest-plain-wordmark.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original-wordmark.svg"
 />
 
 
