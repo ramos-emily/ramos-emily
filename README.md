@@ -84,8 +84,8 @@ Me chamo Emily vitoria, tenho 19 anos e morei grande parte da minha vida em SC, 
 
 <img 
     align="left" 
-    alt="SQLITE"
-    title="SQLITE" 
+    alt="REACT"
+    title="REACT" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg"
@@ -93,11 +93,20 @@ Me chamo Emily vitoria, tenho 19 anos e morei grande parte da minha vida em SC, 
 
 <img 
     align="left" 
-    alt="SQLITE"
-    title="SQLITE" 
+    alt="TAILWIND"
+    title="TAILWIND" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"
+/>
+
+<img 
+    align="left" 
+    alt="FASTAPI"
+    title="FASTAPI" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg"
 />
 
 
