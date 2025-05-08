@@ -109,6 +109,14 @@ Me chamo Emily vitoria, tenho 19 anos e morei grande parte da minha vida em SC, 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg"
 />
 
+<img 
+    align="left" 
+    alt="REACT-NATIVE"
+    title="REACT-NATIVE" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://img.icons8.com/fluency/48/typescript--v2.png"
+/>
 
 
 
