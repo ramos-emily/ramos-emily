@@ -118,6 +118,15 @@ Me chamo Emily vitoria, tenho 19 anos e morei grande parte da minha vida em SC, 
     src="https://img.icons8.com/fluency/48/typescript--v2.png"
 />
 
+<img 
+    align="left" 
+    alt="FIREBASE"
+    title="FIREBASE" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-firebase-a-googles-mobile-platform-that-helps-you-quickly-develop-high-quality-apps-logo-color-tal-revivo.png"
+/>
+
 
 
 
