@@ -136,6 +136,16 @@ Me chamo Emily vitoria, tenho 19 anos e morei grande parte da minha vida em SC, 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
 />
 
+<img 
+    align="left" 
+    alt="Expo"
+    title="Expo" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://www.svgrepo.com/show/341805/expo.svg"
+/>
+
+
 
 
 
