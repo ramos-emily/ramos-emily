@@ -148,9 +148,6 @@ Me chamo Emily vitoria, tenho 19 anos e morei grande parte da minha vida em SC, 
 
 
 
-
-
-
 <br/>
 <br/>
 
