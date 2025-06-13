@@ -114,7 +114,7 @@ Me chamo Emily vitoria, tenho 19 anos e morei grande parte da minha vida em SC, 
     align="left" 
     alt="FIREBASE"
     title="FIREBASE" 
-    width="30px" 
+    width="20px" 
     style="padding-right: 10px;" 
     src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg"
 />
