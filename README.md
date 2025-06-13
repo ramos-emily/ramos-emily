@@ -173,6 +173,17 @@ Me chamo Emily vitoria, tenho 19 anos e morei grande parte da minha vida em SC, 
     src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/1024px-Sqlite-square-icon.svg.png"
 />
 
+<img 
+    align="left" 
+    alt="SQLite"
+    title="SQLite" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.cybassets.com/media/W1siZiIsIjMwOTg0L3Byb2R1Y3RzLzUxMDkxODc3LzE3MzEzNzUzMjNfNjZjYjQ1YTRiZTQ2ZTgyYTIyN2QucG5nIl0sWyJwIiwidGh1bWIiLCI2MDB4NjAwIl1d.png?sha=6726de3800f8f839"
+/>
+
+
+
 
 
 <br/>
