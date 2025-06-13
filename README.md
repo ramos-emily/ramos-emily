@@ -154,6 +154,24 @@ Me chamo Emily vitoria, tenho 19 anos e morei grande parte da minha vida em SC, 
     src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Android_Studio_icon_%282023%29.svg/1200px-Android_Studio_icon_%282023%29.svg.png"
 />
 
+<img 
+    align="left" 
+    alt="Xampp"
+    title="Xampp" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://upload.wikimedia.org/wikipedia/commons/d/dc/XAMPP_Logo.png"
+/>
+
+<img 
+    align="left" 
+    alt="MySql"
+    title="MySql" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://images.icon-icons.com/1381/PNG/512/mysqlworkbench_93532.png"
+/>
+
 
 
 <br/>
