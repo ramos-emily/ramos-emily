@@ -145,6 +145,14 @@ Me chamo Emily vitoria, tenho 19 anos e morei grande parte da minha vida em SC, 
     src="https://avatars.githubusercontent.com/u/12504344?s=280&v=4"
 />
 
+<img 
+    align="left" 
+    alt="Andoid Studio"
+    title="Andoid Studio" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Android_Studio_icon_%282023%29.svg/1200px-Android_Studio_icon_%282023%29.svg.png"
+/>
 
 
 
