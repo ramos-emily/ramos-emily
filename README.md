@@ -18,7 +18,6 @@ Me chamo Emily vitoria, tenho 19 anos e morei grande parte da minha vida em SC, 
     alt="HTML"
     title="HTML" 
     width="30px" 
-    style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
 <img 
@@ -26,7 +25,6 @@ Me chamo Emily vitoria, tenho 19 anos e morei grande parte da minha vida em SC, 
     alt="CSS" 
     title="CSS"
     width="30px" 
-    style="padding-right: 10px;" 
     src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Official_CSS_Logo.svg/2048px-Official_CSS_Logo.svg.png" 
 />
 <img 
@@ -34,7 +32,6 @@ Me chamo Emily vitoria, tenho 19 anos e morei grande parte da minha vida em SC, 
     alt="JavaScript" 
     title="JavaScript"
     width="30px" 
-    style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 
@@ -43,7 +40,6 @@ Me chamo Emily vitoria, tenho 19 anos e morei grande parte da minha vida em SC, 
     alt="Python" 
     title="Python"
     width="30px" 
-    style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
@@ -52,7 +48,6 @@ Me chamo Emily vitoria, tenho 19 anos e morei grande parte da minha vida em SC, 
     alt="java" 
     title="java"
     width="30px" 
-    style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
 
@@ -60,8 +55,7 @@ Me chamo Emily vitoria, tenho 19 anos e morei grande parte da minha vida em SC, 
     align="left" 
     alt="GML" 
     title="GML"
-    width="30px" 
-    style="padding-right: 10px;" 
+    width="30px"  
     src="https://www.svgrepo.com/show/373617/gamemaker.svg" 
 />
 
@@ -70,7 +64,6 @@ Me chamo Emily vitoria, tenho 19 anos e morei grande parte da minha vida em SC, 
     alt="DJANGO" 
     title="DJANGO"
     width="30px" 
-    style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" 
 />
 
@@ -79,7 +72,6 @@ Me chamo Emily vitoria, tenho 19 anos e morei grande parte da minha vida em SC, 
     alt="REACT"
     title="REACT" 
     width="30px" 
-    style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg"
 />
 
@@ -88,7 +80,6 @@ Me chamo Emily vitoria, tenho 19 anos e morei grande parte da minha vida em SC, 
     alt="TAILWIND"
     title="TAILWIND" 
     width="30px" 
-    style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"
 />
 
@@ -97,7 +88,6 @@ Me chamo Emily vitoria, tenho 19 anos e morei grande parte da minha vida em SC, 
     alt="FASTAPI"
     title="FASTAPI" 
     width="30px" 
-    style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg"
 />
 
@@ -106,7 +96,6 @@ Me chamo Emily vitoria, tenho 19 anos e morei grande parte da minha vida em SC, 
     alt="TYPESCRIPT"
     title="TYPESCRIPT" 
     width="30px" 
-    style="padding-right: 10px;" 
     src="https://img.icons8.com/fluency/48/typescript--v2.png"
 />
 
@@ -115,7 +104,6 @@ Me chamo Emily vitoria, tenho 19 anos e morei grande parte da minha vida em SC, 
     alt="FIREBASE"
     title="FIREBASE" 
     width="20px" 
-    style="padding-right: 10px;" 
     src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg"
 />
 
@@ -124,7 +112,6 @@ Me chamo Emily vitoria, tenho 19 anos e morei grande parte da minha vida em SC, 
     alt="AWS"
     title="AWS" 
     width="30px" 
-    style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
 />
 
@@ -133,7 +120,6 @@ Me chamo Emily vitoria, tenho 19 anos e morei grande parte da minha vida em SC, 
     alt="Expo"
     title="Expo" 
     width="30px" 
-    style="padding-right: 10px;" 
     src="https://avatars.githubusercontent.com/u/12504344?s=280&v=4"
 />
 
@@ -142,7 +128,6 @@ Me chamo Emily vitoria, tenho 19 anos e morei grande parte da minha vida em SC, 
     alt="Andoid Studio"
     title="Andoid Studio" 
     width="30px" 
-    style="padding-right: 10px;" 
     src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Android_Studio_icon_%282023%29.svg/1200px-Android_Studio_icon_%282023%29.svg.png"
 />
 
@@ -151,7 +136,6 @@ Me chamo Emily vitoria, tenho 19 anos e morei grande parte da minha vida em SC, 
     alt="Xampp"
     title="Xampp" 
     width="30px" 
-    style="padding-right: 10px;" 
     src="https://upload.wikimedia.org/wikipedia/commons/d/dc/XAMPP_Logo.png"
 />
 
@@ -160,7 +144,6 @@ Me chamo Emily vitoria, tenho 19 anos e morei grande parte da minha vida em SC, 
     alt="MySql"
     title="MySql" 
     width="30px" 
-    style="padding-right: 10px;" 
     src="https://images.icon-icons.com/1381/PNG/512/mysqlworkbench_93532.png"
 />
 
@@ -169,7 +152,6 @@ Me chamo Emily vitoria, tenho 19 anos e morei grande parte da minha vida em SC, 
     alt="SQLite"
     title="SQLite" 
     width="30px" 
-    style="padding-right: 10px;" 
     src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/1024px-Sqlite-square-icon.svg.png"
 />
 
@@ -177,8 +159,7 @@ Me chamo Emily vitoria, tenho 19 anos e morei grande parte da minha vida em SC, 
     align="left" 
     alt="AutoCad"
     title="AutoCad" 
-    width="30px" 
-    style="padding-right: 10px;" 
+    width="30px"  
     src="https://cdn.cybassets.com/media/W1siZiIsIjMwOTg0L3Byb2R1Y3RzLzUxMDkxODc3LzE3MzEzNzUzMjNfNjZjYjQ1YTRiZTQ2ZTgyYTIyN2QucG5nIl0sWyJwIiwidGh1bWIiLCI2MDB4NjAwIl1d.png?sha=6726de3800f8f839"
 />
 
