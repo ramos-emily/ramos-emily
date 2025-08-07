@@ -13,6 +13,7 @@ Me chamo Emily vitoria, tenho 19 anos e morei grande parte da minha vida em SC, 
 
 ### 🤖 Linguagens e Tecnologias
 
+ <div width="100px">
 <img 
     align="left" 
     alt="HTML"
@@ -162,6 +163,7 @@ Me chamo Emily vitoria, tenho 19 anos e morei grande parte da minha vida em SC, 
     width="30px"  
     src="https://cdn.cybassets.com/media/W1siZiIsIjMwOTg0L3Byb2R1Y3RzLzUxMDkxODc3LzE3MzEzNzUzMjNfNjZjYjQ1YTRiZTQ2ZTgyYTIyN2QucG5nIl0sWyJwIiwidGh1bWIiLCI2MDB4NjAwIl1d.png?sha=6726de3800f8f839"
 />
+</div>
 
 
 
