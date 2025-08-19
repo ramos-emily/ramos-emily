@@ -13,165 +13,29 @@ Me chamo Emily vitoria, tenho 20 anos e morei grande parte da minha vida em SC, 
 
 ### 🤖 Linguagens e Tecnologias
 
- <div width="130px">
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Official_CSS_Logo.svg/2048px-Official_CSS_Logo.svg.png" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-
-<img
-    align="left" 
-    alt="java" 
-    title="java"
-    width="30px" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
-/>
-
-<img
-    align="left" 
-    alt="GML" 
-    title="GML"
-    width="30px"  
-    src="https://www.svgrepo.com/show/373617/gamemaker.svg" 
-/>
-
-<img
-    align="left" 
-    alt="DJANGO" 
-    title="DJANGO"
-    width="30px" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="REACT"
-    title="REACT" 
-    width="30px" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg"
-/>
-
-<img 
-    align="left" 
-    alt="TAILWIND"
-    title="TAILWIND" 
-    width="30px" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"
-/>
-
-<img 
-    align="left" 
-    alt="FASTAPI"
-    title="FASTAPI" 
-    width="30px" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg"
-/>
-
-<img 
-    align="left" 
-    alt="TYPESCRIPT"
-    title="TYPESCRIPT" 
-    width="30px" 
-    src="https://img.icons8.com/fluency/48/typescript--v2.png"
-/>
-
-<img 
-    align="left" 
-    alt="FIREBASE"
-    title="FIREBASE" 
-    width="20px" 
-    src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg"
-/>
-
-<img 
-    align="left" 
-    alt="AWS"
-    title="AWS" 
-    width="30px" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
-/>
-
-<img 
-    align="left" 
-    alt="Expo"
-    title="Expo" 
-    width="30px" 
-    src="https://avatars.githubusercontent.com/u/12504344?s=280&v=4"
-/>
-
-<img 
-    align="left" 
-    alt="Andoid Studio"
-    title="Andoid Studio" 
-    width="30px" 
-    src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Android_Studio_icon_%282023%29.svg/1200px-Android_Studio_icon_%282023%29.svg.png"
-/>
-
-<img 
-    align="left" 
-    alt="Xampp"
-    title="Xampp" 
-    width="30px" 
-    src="https://upload.wikimedia.org/wikipedia/commons/d/dc/XAMPP_Logo.png"
-/>
-
-<img 
-    align="left" 
-    alt="MySql"
-    title="MySql" 
-    width="30px" 
-    src="https://images.icon-icons.com/1381/PNG/512/mysqlworkbench_93532.png"
-/>
-
-<img 
-    align="left" 
-    alt="Godot"
-    title="Godot" 
-    width="30px" 
-    src="https://godotengine.org/assets/press/icon_color.png"
-/>
-
-<img 
-    align="left" 
-    alt="SQLite"
-    title="SQLite" 
-    width="30px" 
-    src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/1024px-Sqlite-square-icon.svg.png"
-/>
-
-<img 
-    align="left" 
-    alt="AutoCad"
-    title="AutoCad" 
-    width="30px"  
-    src="https://cdn.cybassets.com/media/W1siZiIsIjMwOTg0L3Byb2R1Y3RzLzUxMDkxODc3LzE3MzEzNzUzMjNfNjZjYjQ1YTRiZTQ2ZTgyYTIyN2QucG5nIl0sWyJwIiwidGh1bWIiLCI2MDB4NjAwIl1d.png?sha=6726de3800f8f839"
-/>
+<div style="display: flex; flex-wrap: wrap; gap: 15px; align-items: center;">
+  <img alt="HTML" title="HTML" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img alt="CSS" title="CSS" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Official_CSS_Logo.svg/2048px-Official_CSS_Logo.svg.png" />
+  <img alt="JavaScript" title="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img alt="Python" title="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img alt="Java" title="Java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+  <img alt="GML" title="GML" width="30px" src="https://www.svgrepo.com/show/373617/gamemaker.svg" />
+  <img alt="Django" title="Django" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />
+  <img alt="React" title="React" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
+  <img alt="Tailwind" title="Tailwind" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+  <img alt="FastAPI" title="FastAPI" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" />
+  <img alt="TypeScript" title="TypeScript" width="30px" src="https://img.icons8.com/fluency/48/typescript--v2.png" />
+  <img alt="Firebase" title="Firebase" width="30px" src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" />
+  <img alt="AWS" title="AWS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+  <img alt="Expo" title="Expo" width="30px" src="https://avatars.githubusercontent.com/u/12504344?s=280&v=4" />
+  <img alt="Android Studio" title="Android Studio" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Android_Studio_icon_%282023%29.svg/1200px-Android_Studio_icon_%282023%29.svg.png" />
+  <img alt="Xampp" title="Xampp" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/d/dc/XAMPP_Logo.png" />
+  <img alt="MySQL" title="MySQL" width="30px" src="https://images.icon-icons.com/1381/PNG/512/mysqlworkbench_93532.png" />
+  <img alt="Godot" title="Godot" width="30px" src="https://godotengine.org/assets/press/icon_color.png" />
+  <img alt="SQLite" title="SQLite" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/1024px-Sqlite-square-icon.svg.png" />
+  <img alt="AutoCAD" title="AutoCAD" width="30px" src="https://cdn.cybassets.com/media/W1siZiIsIjMwOTg0L3Byb2R1Y3RzLzUxMDkxODc3LzE3MzEzNzUzMjNfNjZjYjQ1YTRiZTQ2ZTgyYTIyN2QucG5nIl0sWyJwIiwidGh1bWIiLCI2MDB4NjAwIl1d.png?sha=6726de3800f8f839" />
 </div>
+
 
 
 
