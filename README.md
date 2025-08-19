@@ -13,7 +13,7 @@ Me chamo Emily vitoria, tenho 20 anos e morei grande parte da minha vida em SC, 
 
 ### 🤖 Linguagens e Tecnologias
 
- <div width="100px">
+ <div width="130px">
 <img 
     align="left" 
     alt="HTML"
@@ -154,6 +154,14 @@ Me chamo Emily vitoria, tenho 20 anos e morei grande parte da minha vida em SC, 
     title="SQLite" 
     width="30px" 
     src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/1024px-Sqlite-square-icon.svg.png"
+/>
+
+<img 
+    align="left" 
+    alt="Godot"
+    title="Godot" 
+    width="30px" 
+    src="https://godotengine.org/assets/press/icon_color.png"
 />
 
 <img 
