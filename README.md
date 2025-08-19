@@ -150,18 +150,18 @@ Me chamo Emily vitoria, tenho 20 anos e morei grande parte da minha vida em SC, 
 
 <img 
     align="left" 
-    alt="SQLite"
-    title="SQLite" 
-    width="30px" 
-    src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/1024px-Sqlite-square-icon.svg.png"
-/>
-
-<img 
-    align="left" 
     alt="Godot"
     title="Godot" 
     width="30px" 
     src="https://godotengine.org/assets/press/icon_color.png"
+/>
+
+<img 
+    align="left" 
+    alt="SQLite"
+    title="SQLite" 
+    width="30px" 
+    src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/1024px-Sqlite-square-icon.svg.png"
 />
 
 <img 
