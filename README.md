@@ -34,6 +34,7 @@ Me chamo Emily vitoria, tenho 20 anos e morei grande parte da minha vida em SC, 
   <img alt="Godot" title="Godot" width="40px" src="https://godotengine.org/assets/press/icon_color.png" />
   <img alt="SQLite" title="SQLite" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/1024px-Sqlite-square-icon.svg.png" />
   <img alt="AutoCAD" title="AutoCAD" width="40px" src="https://cdn.cybassets.com/media/W1siZiIsIjMwOTg0L3Byb2R1Y3RzLzUxMDkxODc3LzE3MzEzNzUzMjNfNjZjYjQ1YTRiZTQ2ZTgyYTIyN2QucG5nIl0sWyJwIiwidGh1bWIiLCI2MDB4NjAwIl1d.png?sha=6726de3800f8f839" />
+  <img alt="AutoCAD" title="AutoCAD" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Dart-logo-icon.svg/2048px-Dart-logo-icon.svg.png" />
 </div>
 
 
