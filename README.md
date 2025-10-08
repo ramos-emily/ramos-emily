@@ -35,6 +35,9 @@ Me chamo Emily vitoria, tenho 20 anos e morei grande parte da minha vida em SC, 
   <img alt="Dart" title="Dart" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Dart-logo-icon.svg/2048px-Dart-logo-icon.svg.png" />
   <img alt="Sass" title="Sass" width="40px" src="https://sass-lang.com/assets/img/styleguide/color.png" />
   <img alt="Azure" title="Azure" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/1024px-Microsoft_Azure.svg.png" />
+  <img alt="Next" title="Next" width="40px" src="https://www.synergysparq.com/wp-content/uploads/2024/09/next-js-logo-large.png" />
+   <img alt="Postgre" title="Postgre" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1163px-Postgresql_elephant.svg.png" />
+ 
 </div>
 
 
