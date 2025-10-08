@@ -1,6 +1,6 @@
  # 👩🏻‍💻 Emily Ramos
 
-Me chamo Emily vitoria, tenho 20 anos e morei grande parte da minha vida em SC, hoje moro em SP. Faço curso técnico de Desenvolvimento de sistemas no senai, faculdade de engenharia da computação na UNASP e sou jovem aprendiz na Bosch. Sou apaixonada por tecnologia e ja adquiri muito conhecimento na minha rotina. Futura dev backender!
+Me chamo Emily vitoria, tenho 20 anos e morei grande parte da minha vida em SC, hoje moro em SP. Faço curso técnico de Desenvolvimento de sistemas no senai, faculdade de engenharia da computação na UNASP e sou jovem aprendiz na Bosch, atuando com desenvolvimento Fullstack. Sou apaixonada por tecnologia e ja adquiri muito conhecimento na minha rotina.
 
 
 ---
