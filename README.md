@@ -30,11 +30,10 @@ Me chamo Emily vitoria, tenho 20 anos e morei grande parte da minha vida em SC, 
   <img alt="Xampp" title="Xampp" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/d/dc/XAMPP_Logo.png" />
   <img alt="MySQL" title="MySQL" width="40px" src="https://images.icon-icons.com/1381/PNG/512/mysqlworkbench_93532.png" />
   <img alt="Godot" title="Godot" width="40px" src="https://godotengine.org/assets/press/icon_color.png" />
-  <img alt="SQLite" title="SQLite" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/1024px-Sqlite-square-icon.svg.png" />
   <img alt="AutoCAD" title="AutoCAD" width="40px" src="https://cdn.cybassets.com/media/W1siZiIsIjMwOTg0L3Byb2R1Y3RzLzUxMDkxODc3LzE3MzEzNzUzMjNfNjZjYjQ1YTRiZTQ2ZTgyYTIyN2QucG5nIl0sWyJwIiwidGh1bWIiLCI2MDB4NjAwIl1d.png?sha=6726de3800f8f839" />
   <img alt="Dart" title="Dart" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Dart-logo-icon.svg/2048px-Dart-logo-icon.svg.png" />
   <img alt="Sass" title="Sass" width="40px" src="https://sass-lang.com/assets/img/styleguide/color.png" />
-  <img alt="Azure" title="Azure" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/1024px-Microsoft_Azure.svg.png" />
+  <img alt="Azure" title="Azure" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/3840px-Microsoft_Azure.svg.png" />
   <img alt="Next" title="Next" width="40px" src="https://www.synergysparq.com/wp-content/uploads/2024/09/next-js-logo-large.png" />
    <img alt="Postgre" title="Postgre" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1163px-Postgresql_elephant.svg.png" />
  
